@@ -1,0 +1,9 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=true, Min=(X=-2546.603 Y=-4068.869 Z=-2769.552), Max=(X=5645.397 Y=4123.131 Z=5422.448)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/Scenes/Space_Scene
+   |  ActorDescs:
+   |      - Guid:B0744D134A1E95FD175CD7B74FE6DC32 Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:DEBF44ED4A0E7478ABBC7AAC939D80E0 Class:Actor Name:Space_Skybox_bp_C_UAID_D8BBC153433FF22F01_1380365385 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=-2546.603 Y=-4068.869 Z=-2769.552), Max=(X=5645.397 Y=4123.131 Z=5422.448) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
