@@ -1,0 +1,8 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/Scenes/MainMenu
+   |  ActorDescs:
+   |      - Guid:8AE49FD44D577B755A5ECEAC86B120A9 Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
