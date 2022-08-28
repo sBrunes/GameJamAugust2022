@@ -1884,3 +1884,461 @@ Recommended: 516.25
 [2022.08.28-06.09.10:608][707]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/PlayerCharacter32FC258A42B6BD0C8D1D8DAED817A130.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Player/PlayerCharacter.uasset'
 [2022.08.28-06.09.10:620][707]AssetCheck: New page: Asset Save: PlayerCharacter
 [2022.08.28-06.09.10:620][707]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerCharacter.PlayerCharacter
+[2022.08.28-06.09.39:166][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.09.39:203][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.08.28-06.09.39:217][749]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.09.39:217][749]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2FAF24C5244AE33F0E9067987E3ECE70D.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.09.39:240][749]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.09.39:240][749]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.10.18:013][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.10.18:049][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.28-06.10.18:063][694]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.10.18:063][694]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2CE293EA5443F1BAF370714AF8DA589DB.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.10.18:085][694]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.10.18:085][694]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.10.26:112][363]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.08.28-06.10.26:119][363]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.08.28-06.10.26:123][363]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.08.28-06.10.26:134][364]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.08.28-06.10.28:945][689]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> GameOver
+[2022.08.28-06.10.28:948][689]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.08.28-06.10.30:108][818]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/GameOver.GameOver
+[2022.08.28-06.10.30:109][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.10.30:124][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.10.30:429][818]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-06.10.30:429][818]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-06.10.56:115][451]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 91451
+[2022.08.28-06.10.56:116][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.10.56:125][452]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.28-06.10.56:127][452]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.28-06.10.56:128][452]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.28-06.10.56:129][452]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.28-06.10.56:130][452]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.28-06.11.38:767][332]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.28-06.11.40:393][522]BlueprintLog: New page: Compile GameOver
+[2022.08.28-06.11.40:449][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.08.28-06.11.40:921][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/GameOver" FILE="F:/GameJamAugust2022/GameJamProject/Content/Widgets/GameOver.uasset" SILENT=true
+[2022.08.28-06.11.40:924][573]LogSavePackage: Moving output files for package: /Game/Widgets/GameOver
+[2022.08.28-06.11.40:924][573]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/GameOverBC0E5D7041095817B1A9C7988248CD22.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Widgets/GameOver.uasset'
+[2022.08.28-06.11.40:935][573]AssetCheck: New page: Asset Save: GameOver
+[2022.08.28-06.11.40:935][573]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/GameOver.GameOver
+[2022.08.28-06.12.50:100][411]BlueprintLog: New page: Compile GameOver
+[2022.08.28-06.12.50:155][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.08.28-06.12.51:039][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/GameOver" FILE="F:/GameJamAugust2022/GameJamProject/Content/Widgets/GameOver.uasset" SILENT=true
+[2022.08.28-06.12.51:041][511]LogSavePackage: Moving output files for package: /Game/Widgets/GameOver
+[2022.08.28-06.12.51:041][511]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/GameOver2100F1DB4539F9FB80560DB8FACFD4E9.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Widgets/GameOver.uasset'
+[2022.08.28-06.12.51:052][511]AssetCheck: New page: Asset Save: GameOver
+[2022.08.28-06.12.51:052][511]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/GameOver.GameOver
+[2022.08.28-06.13.03:926][ 55]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.28-06.13.58:995][994]BlueprintLog: New page: Compile PlayerCharacter
+[2022.08.28-06.13.59:160][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.08.28-06.13.59:778][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCharacter" FILE="F:/GameJamAugust2022/GameJamProject/Content/Player/PlayerCharacter.uasset" SILENT=true
+[2022.08.28-06.13.59:872][ 32]LogSavePackage: Moving output files for package: /Game/Player/PlayerCharacter
+[2022.08.28-06.13.59:873][ 32]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/PlayerCharacter67C31C124D23CB6C3A3EA0890E82B7BF.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Player/PlayerCharacter.uasset'
+[2022.08.28-06.13.59:884][ 32]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.08.28-06.13.59:884][ 32]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerCharacter.PlayerCharacter
+[2022.08.28-06.14.07:612][853]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.28-06.14.15:096][665]BlueprintLog: New page: Compile PlayerCharacter
+[2022.08.28-06.14.15:266][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.08.28-06.14.15:838][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCharacter" FILE="F:/GameJamAugust2022/GameJamProject/Content/Player/PlayerCharacter.uasset" SILENT=true
+[2022.08.28-06.14.15:933][702]LogSavePackage: Moving output files for package: /Game/Player/PlayerCharacter
+[2022.08.28-06.14.15:934][702]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/PlayerCharacterE2FA570C4B9BF388FB393B80D0ACED7B.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Player/PlayerCharacter.uasset'
+[2022.08.28-06.14.15:945][702]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.08.28-06.14.15:945][702]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerCharacter.PlayerCharacter
+[2022.08.28-06.14.50:924][412]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.28-06.14.58:743][338]BlueprintLog: New page: Compile GameOver
+[2022.08.28-06.14.58:853][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.08.28-06.14.59:323][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/GameOver" FILE="F:/GameJamAugust2022/GameJamProject/Content/Widgets/GameOver.uasset" SILENT=true
+[2022.08.28-06.14.59:325][385]LogSavePackage: Moving output files for package: /Game/Widgets/GameOver
+[2022.08.28-06.14.59:326][385]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/GameOver8F354382459166BE45B62792F215A076.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Widgets/GameOver.uasset'
+[2022.08.28-06.14.59:336][385]AssetCheck: New page: Asset Save: GameOver
+[2022.08.28-06.14.59:336][385]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/GameOver.GameOver
+[2022.08.28-06.15.00:345][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.15.00:389][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.08.28-06.15.00:404][488]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.15.00:405][488]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2CFD0E5074F6FFB1F38826BBF29215D11.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.15.00:424][488]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.15.00:424][488]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.15.13:000][823]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.28-06.15.21:757][615]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.08.28-06.15.21:763][615]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.08.28-06.15.21:768][615]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.08.28-06.15.21:777][616]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.08.28-06.15.24:045][886]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Begin
+[2022.08.28-06.15.24:049][886]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.08.28-06.15.25:230][ 16]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Begin.Begin
+[2022.08.28-06.15.25:230][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.15.25:244][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.15.25:548][ 16]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-06.15.25:548][ 16]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-06.17.18:240][723]BlueprintLog: New page: Compile Begin
+[2022.08.28-06.17.18:310][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.08.28-06.17.18:750][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Begin" FILE="F:/GameJamAugust2022/GameJamProject/Content/Widgets/Begin.uasset" SILENT=true
+[2022.08.28-06.17.18:752][769]LogSavePackage: Moving output files for package: /Game/Widgets/Begin
+[2022.08.28-06.17.18:753][769]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/BeginCEFBFB794B1E2942836D4DB86ED53EED.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Widgets/Begin.uasset'
+[2022.08.28-06.17.18:763][769]AssetCheck: New page: Asset Save: Begin
+[2022.08.28-06.17.18:763][769]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Begin.Begin
+[2022.08.28-06.17.32:262][311]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.28-06.17.48:310][ 56]BlueprintLog: New page: Compile Begin
+[2022.08.28-06.17.48:372][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.08.28-06.17.49:001][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Begin" FILE="F:/GameJamAugust2022/GameJamProject/Content/Widgets/Begin.uasset" SILENT=true
+[2022.08.28-06.17.49:004][122]LogSavePackage: Moving output files for package: /Game/Widgets/Begin
+[2022.08.28-06.17.49:004][122]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/BeginCF8D5089472548FF58645DA37A7F4016.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Widgets/Begin.uasset'
+[2022.08.28-06.17.49:015][122]AssetCheck: New page: Asset Save: Begin
+[2022.08.28-06.17.49:015][122]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Begin.Begin
+[2022.08.28-06.17.50:131][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.17.50:177][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.08.28-06.17.50:192][241]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.17.50:192][241]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2CE69D2C9437F4D0000575E9B162E7621.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.17.50:212][241]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.17.50:212][241]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.18.02:326][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.18.02:371][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.28-06.18.02:385][686]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.18.02:385][686]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene294D799FE45926C8D0D1F36922CD1961E.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.18.02:403][686]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.18.02:403][686]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.18.09:586][496]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.28-06.18.11:217][686]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.28-06.18.30:960][966]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.28-06.18.34:585][393]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.28-06.18.49:467][160]Cmd: SELECT NONE
+[2022.08.28-06.18.59:354][328]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.28-06.19.02:116][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.19.02:162][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.28-06.19.02:178][654]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.19.02:179][654]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2B6F101E147E14BB855F80EAC77D78781.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.19.02:197][654]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.19.02:197][654]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.19.10:117][420]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.08.28-06.19.10:124][420]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.08.28-06.19.10:130][420]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.08.28-06.19.10:139][421]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.08.28-06.19.12:583][715]LogContentBrowser: Attempting asset rename: NewBlueprint -> instructions
+[2022.08.28-06.19.12:587][715]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.08.28-06.19.13:716][841]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Widgets/instructions.instructions
+[2022.08.28-06.19.13:716][841]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.19.14:095][841]LogViewport: Scene viewport resized to 1187x669, mode Windowed.
+[2022.08.28-06.19.32:689][ 20]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.28-06.19.48:130][849]LogEditorTransaction: Undo Modify Component(s)
+[2022.08.28-06.19.48:525][866]LogEditorTransaction: Undo Modify Component(s)
+[2022.08.28-06.19.58:471][ 32]BlueprintLog: New page: Compile instructions
+[2022.08.28-06.19.58:553][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.08.28-06.19.59:036][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/instructions" FILE="F:/GameJamAugust2022/GameJamProject/Content/Widgets/instructions.uasset" SILENT=true
+[2022.08.28-06.19.59:038][ 78]LogSavePackage: Moving output files for package: /Game/Widgets/instructions
+[2022.08.28-06.19.59:038][ 78]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/instructionsFD142D5F48A6BED291898DB205A53828.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Widgets/instructions.uasset'
+[2022.08.28-06.19.59:050][ 78]AssetCheck: New page: Asset Save: instructions
+[2022.08.28-06.19.59:050][ 78]LogContentValidation: Display: Validating Blueprint /Game/Widgets/instructions.instructions
+[2022.08.28-06.20.19:660][507]BlueprintLog: New page: Compile instructions
+[2022.08.28-06.20.19:729][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.08.28-06.20.20:121][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/instructions" FILE="F:/GameJamAugust2022/GameJamProject/Content/Widgets/instructions.uasset" SILENT=true
+[2022.08.28-06.20.20:123][542]LogSavePackage: Moving output files for package: /Game/Widgets/instructions
+[2022.08.28-06.20.20:123][542]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/instructionsC153CEEC4FDC95E737991EAB37CFD093.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Widgets/instructions.uasset'
+[2022.08.28-06.20.20:134][542]AssetCheck: New page: Asset Save: instructions
+[2022.08.28-06.20.20:134][542]LogContentValidation: Display: Validating Blueprint /Game/Widgets/instructions.instructions
+[2022.08.28-06.20.21:395][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.20.21:444][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.08.28-06.20.21:458][685]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.20.21:459][685]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene20044EA294551E98BC0E16596636DE58F.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.20.21:478][685]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.20.21:478][685]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.20.25:801][178]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Widgets/instructions.instructions_C
+[2022.08.28-06.20.25:801][178]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Widgets/instructions.instructions_C
+[2022.08.28-06.20.25:802][178]LogActorFactory: Actor Factory spawned Blueprint /Game/Widgets/instructions.instructions as actor: instructions_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.instructions_C_0
+[2022.08.28-06.20.25:803][178]LogActorFactory: Actor Factory spawned Blueprint /Game/Widgets/instructions.instructions as actor: instructions_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.instructions_C_0
+[2022.08.28-06.20.26:385][240]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Widgets/instructions.instructions_C
+[2022.08.28-06.20.26:385][240]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Widgets/instructions.instructions_C
+[2022.08.28-06.20.26:388][240]LogActorFactory: Actor Factory spawned Blueprint /Game/Widgets/instructions.instructions as actor: instructions_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.instructions_C_1
+[2022.08.28-06.20.26:389][240]LogActorFactory: Actor Factory spawned Blueprint /Game/Widgets/instructions.instructions as actor: instructions_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.instructions_C_1
+[2022.08.28-06.20.27:617][381]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.28-06.20.37:763][568]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-06.20.37:770][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-06.20.37:770][568]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 10:20:37 PM)
+[2022.08.28-06.20.37:798][568]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.20.37:804][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005859s)
+[2022.08.28-06.20.37:804][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.005970s)
+[2022.08.28-06.20.37:804][568]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-06.20.37:804][568]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.20.37:804][568]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-06.20.37:804][568]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2022.08.28-06.20.37:862][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.08.28-06.20.37:864][568]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.08.28-06.20.37:864][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-06.20.37:864][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-06.20.37:864][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-06.20.37:864][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-06.20.37:864][568]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-06.20.37:864][568]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-06.20.37:864][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-06.20.37:864][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-06.20.37:864][568]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-06.20.37:864][568]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-06.20.37:864][568]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-06.20.37:866][568]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-06.20.37:882][568]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-06.20.37:882][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-06.20.37:883][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-06.20.37:883][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-06.20.37:883][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.08.28-06.20.37:883][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.08.28-06.20.37:885][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.08.28-06.20.37:885][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.08.28-06.20.37:885][568]LogInit: FAudioDevice initialized.
+[2022.08.28-06.20.37:885][568]LogAudio: Display: Audio Device (ID: 15) registered with world 'SpaceScene2'.
+[2022.08.28-06.20.37:899][568]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-06.20.37:899][568]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-06.20.37:900][568]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-02.20.37
+[2022.08.28-06.20.37:900][568]LogWorld: Bringing up level for play took: 0.001380
+[2022.08.28-06.20.37:901][568]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2022.08.28-06.20.37:903][568]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.20.37:903][568]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.20.38:018][568]PIE: Server logged in
+[2022.08.28-06.20.38:019][568]PIE: Play in editor total start time 0.248 seconds.
+[2022.08.28-06.20.45:988][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.20.45:988][281]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.20.45:989][281]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-06.20.45:991][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.20.46:000][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-06.20.46:006][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.20.46:058][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.28-06.20.46:059][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.08.28-06.20.46:060][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.08.28-06.20.46:063][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.20.46:074][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.08.28-06.20.46:095][282]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.08.28-06.20.47:280][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.20.47:329][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.28-06.20.47:344][411]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.20.47:344][411]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene24FF35E3640CA798F8FB1C8ACCBF964A2.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.20.47:363][411]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.20.47:363][411]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.21.49:886][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.21.49:935][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.08.28-06.21.49:950][846]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.21.49:950][846]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2EAEFFD2047194ECDE28E19BF96691210.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.21.49:968][846]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.21.49:968][846]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.21.59:223][246]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-06.21.59:229][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-06.21.59:229][246]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 10:21:59 PM)
+[2022.08.28-06.21.59:229][246]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.21.59:235][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005656s)
+[2022.08.28-06.21.59:235][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.005729s)
+[2022.08.28-06.21.59:235][246]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-06.21.59:235][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.21.59:235][246]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-06.21.59:235][246]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2022.08.28-06.21.59:284][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.08.28-06.21.59:285][246]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.08.28-06.21.59:285][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-06.21.59:285][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-06.21.59:285][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-06.21.59:285][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-06.21.59:285][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-06.21.59:285][246]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-06.21.59:285][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-06.21.59:285][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-06.21.59:285][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-06.21.59:285][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-06.21.59:285][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-06.21.59:287][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-06.21.59:303][246]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-06.21.59:303][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-06.21.59:303][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-06.21.59:303][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-06.21.59:303][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.08.28-06.21.59:303][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.08.28-06.21.59:305][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.08.28-06.21.59:305][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.08.28-06.21.59:305][246]LogInit: FAudioDevice initialized.
+[2022.08.28-06.21.59:305][246]LogAudio: Display: Audio Device (ID: 16) registered with world 'SpaceScene2'.
+[2022.08.28-06.21.59:317][246]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-06.21.59:317][246]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-06.21.59:318][246]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-02.21.59
+[2022.08.28-06.21.59:318][246]LogWorld: Bringing up level for play took: 0.001367
+[2022.08.28-06.21.59:320][246]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2022.08.28-06.21.59:321][246]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.21.59:322][246]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.21.59:436][246]PIE: Server logged in
+[2022.08.28-06.21.59:436][246]PIE: Play in editor total start time 0.208 seconds.
+[2022.08.28-06.23.16:508][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.23.16:508][317]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.23.16:509][317]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-06.23.16:511][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.23.16:523][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-06.23.16:529][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.23.16:576][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.28-06.23.16:581][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.08.28-06.23.16:582][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.08.28-06.23.16:586][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.23.16:598][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.08.28-06.23.16:627][318]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.08.28-06.23.18:163][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.23.18:211][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.08.28-06.23.18:226][486]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.23.18:226][486]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene25A3E1F5E4CAE459B09A9DAA530EF8A0E.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.23.18:245][486]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.23.18:245][486]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.23.51:690][344]LogBlueprint: Warning: [AssetLog] F:\GameJamAugust2022\GameJamProject\Content\Player\PlayerCharacter.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Astronaut_Tracker  and was replaced as a Custom Event!
+[2022.08.28-06.24.54:971][261]BlueprintLog: New page: Compile PlayerCharacter
+[2022.08.28-06.24.55:164][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.08.28-06.24.55:788][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCharacter" FILE="F:/GameJamAugust2022/GameJamProject/Content/Player/PlayerCharacter.uasset" SILENT=true
+[2022.08.28-06.24.55:883][300]LogSavePackage: Moving output files for package: /Game/Player/PlayerCharacter
+[2022.08.28-06.24.55:883][300]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/PlayerCharacter4D2B8BE649B330DBFBE13C91CBF0941B.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Player/PlayerCharacter.uasset'
+[2022.08.28-06.24.55:894][300]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.08.28-06.24.55:894][300]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerCharacter.PlayerCharacter
+[2022.08.28-06.24.56:910][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.24.56:962][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.08.28-06.24.56:977][401]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.24.56:977][401]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene206C306F843B45312AB80C596214EC7B2.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.24.56:996][401]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.24.56:996][401]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.24.57:789][491]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-06.24.57:796][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-06.24.57:796][491]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 10:24:57 PM)
+[2022.08.28-06.24.57:838][491]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.24.57:843][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005613s)
+[2022.08.28-06.24.57:843][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.005717s)
+[2022.08.28-06.24.57:843][491]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-06.24.57:843][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.24.57:844][491]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-06.24.57:844][491]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2022.08.28-06.24.57:892][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.28-06.24.57:893][491]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.08.28-06.24.57:893][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-06.24.57:893][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-06.24.57:893][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-06.24.57:893][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-06.24.57:893][491]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-06.24.57:894][491]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-06.24.57:894][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-06.24.57:894][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-06.24.57:894][491]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-06.24.57:894][491]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-06.24.57:894][491]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-06.24.57:895][491]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-06.24.57:913][491]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-06.24.57:913][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-06.24.57:913][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-06.24.57:913][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-06.24.57:914][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.08.28-06.24.57:914][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.08.28-06.24.57:915][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.08.28-06.24.57:915][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.08.28-06.24.57:915][491]LogInit: FAudioDevice initialized.
+[2022.08.28-06.24.57:915][491]LogAudio: Display: Audio Device (ID: 17) registered with world 'SpaceScene2'.
+[2022.08.28-06.24.57:923][491]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-06.24.57:923][491]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-06.24.57:924][491]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-02.24.57
+[2022.08.28-06.24.57:924][491]LogWorld: Bringing up level for play took: 0.001375
+[2022.08.28-06.24.57:926][491]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2022.08.28-06.24.57:927][491]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.24.57:928][491]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.24.58:045][491]PIE: Server logged in
+[2022.08.28-06.24.58:045][491]PIE: Play in editor total start time 0.249 seconds.
+[2022.08.28-06.25.55:829][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.25.55:829][817]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.25.55:830][817]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-06.25.55:833][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.25.55:844][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-06.25.55:851][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.25.55:903][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.25.55:903][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.08.28-06.25.55:904][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.08.28-06.25.55:918][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.08.28-06.25.55:945][818]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.08.28-06.25.56:984][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.25.57:033][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.28-06.25.57:048][930]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.25.57:048][930]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene20E079BA4460BC67F9533CEB3CD1DF229.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.25.57:066][930]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.25.57:066][930]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.26.16:855][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.26.16:903][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.28-06.26.16:918][242]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.26.16:918][242]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene284E78C3A42198AAF94B7BEBAFC2D0AE3.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.26.16:937][242]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.26.16:937][242]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.26.17:463][302]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-06.26.17:468][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-06.26.17:469][302]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 10:26:17 PM)
+[2022.08.28-06.26.17:470][302]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.26.17:474][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005768s)
+[2022.08.28-06.26.17:475][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.005855s)
+[2022.08.28-06.26.17:475][302]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-06.26.17:475][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.26.17:475][302]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-06.26.17:475][302]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2022.08.28-06.26.17:526][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.08.28-06.26.17:527][302]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.08.28-06.26.17:527][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-06.26.17:527][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-06.26.17:527][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-06.26.17:527][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-06.26.17:527][302]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-06.26.17:527][302]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-06.26.17:527][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-06.26.17:527][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-06.26.17:528][302]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-06.26.17:528][302]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-06.26.17:528][302]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-06.26.17:529][302]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-06.26.17:546][302]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-06.26.17:546][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-06.26.17:546][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-06.26.17:546][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-06.26.17:547][302]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.08.28-06.26.17:547][302]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.08.28-06.26.17:548][302]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.08.28-06.26.17:548][302]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.08.28-06.26.17:548][302]LogInit: FAudioDevice initialized.
+[2022.08.28-06.26.17:548][302]LogAudio: Display: Audio Device (ID: 18) registered with world 'SpaceScene2'.
+[2022.08.28-06.26.17:562][302]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-06.26.17:563][302]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-06.26.17:563][302]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-02.26.17
+[2022.08.28-06.26.17:563][302]LogWorld: Bringing up level for play took: 0.001381
+[2022.08.28-06.26.17:565][302]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2022.08.28-06.26.17:567][302]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.26.17:567][302]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.26.17:682][302]PIE: Server logged in
+[2022.08.28-06.26.17:683][302]PIE: Play in editor total start time 0.214 seconds.
+[2022.08.28-06.26.46:048][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.26.46:048][846]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.26.46:049][846]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-06.26.46:053][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.26.46:066][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-06.26.46:072][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.26.46:124][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.26.46:125][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.08.28-06.26.46:126][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.08.28-06.26.46:140][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.08.28-06.26.46:173][847]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.08.28-06.26.47:479][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.26.47:527][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.28-06.26.47:543][989]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.26.47:543][989]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene249B12D67498D0F3863BE9D95730968B3.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.26.47:561][989]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.26.47:561][989]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.27.02:493][662]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.08.28-06.27.14:211][786]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.08.28-06.27.17:875][ 57]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.08.28-06.27.42:386][514]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.08.28-06.28.14:203][797]BlueprintLog: New page: Compile Begin
+[2022.08.28-06.28.14:288][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.08.28-06.28.14:807][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Begin" FILE="F:/GameJamAugust2022/GameJamProject/Content/Widgets/Begin.uasset" SILENT=true
+[2022.08.28-06.28.14:811][842]LogSavePackage: Moving output files for package: /Game/Widgets/Begin
+[2022.08.28-06.28.14:811][842]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/Begin86D19DAA40DE5BC07B8367B5F5895053.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Widgets/Begin.uasset'
+[2022.08.28-06.28.14:822][842]AssetCheck: New page: Asset Save: Begin
+[2022.08.28-06.28.14:822][842]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Begin.Begin
+[2022.08.28-06.28.15:674][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.28.15:724][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.08.28-06.28.15:739][932]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.28.15:739][932]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2F920530A440CF3C30DB89A853FED8F88.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.28.15:758][932]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.28.15:758][932]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.29.00:140][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.29.00:189][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.08.28-06.29.00:204][336]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.29.00:204][336]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2654205394774F6EB6CD471862FCE21D2.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.29.00:222][336]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.29.00:222][336]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
