@@ -988,3 +988,899 @@ Recommended: 516.25
 [2022.08.28-05.57.48:398][659]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2EBFA9B42491883C9E49980AEFF15B676.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
 [2022.08.28-05.57.48:416][659]AssetCheck: New page: Asset Save: SpaceScene2
 [2022.08.28-05.57.48:416][659]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-05.58.17:975][ 98]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-05.58.17:981][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-05.58.17:981][ 98]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 9:58:17 PM)
+[2022.08.28-05.58.18:009][ 98]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-05.58.18:013][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004517s)
+[2022.08.28-05.58.18:013][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.004634s)
+[2022.08.28-05.58.18:013][ 98]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-05.58.18:013][ 98]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-05.58.18:014][ 98]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-05.58.18:014][ 98]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2022.08.28-05.58.18:044][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.08.28-05.58.18:045][ 98]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.08.28-05.58.18:045][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-05.58.18:045][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-05.58.18:045][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-05.58.18:045][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-05.58.18:045][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-05.58.18:045][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-05.58.18:045][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-05.58.18:045][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-05.58.18:045][ 98]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-05.58.18:045][ 98]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-05.58.18:045][ 98]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-05.58.18:047][ 98]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-05.58.18:063][ 98]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-05.58.18:063][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-05.58.18:063][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-05.58.18:063][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-05.58.18:064][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.08.28-05.58.18:064][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.08.28-05.58.18:065][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.08.28-05.58.18:065][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.08.28-05.58.18:065][ 98]LogInit: FAudioDevice initialized.
+[2022.08.28-05.58.18:065][ 98]LogAudio: Display: Audio Device (ID: 5) registered with world 'SpaceScene2'.
+[2022.08.28-05.58.18:078][ 98]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-05.58.18:079][ 98]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-05.58.18:079][ 98]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-01.58.18
+[2022.08.28-05.58.18:079][ 98]LogWorld: Bringing up level for play took: 0.001263
+[2022.08.28-05.58.18:081][ 98]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.08.28-05.58.18:082][ 98]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-05.58.18:083][ 98]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-05.58.18:182][ 98]PIE: Server logged in
+[2022.08.28-05.58.18:183][ 98]PIE: Play in editor total start time 0.203 seconds.
+[2022.08.28-05.58.24:849][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-05.58.24:849][783]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-05.58.24:849][783]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-05.58.24:852][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-05.58.24:862][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-05.58.24:868][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-05.58.24:901][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-05.58.24:902][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.28-05.58.24:903][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.28-05.58.24:915][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.08.28-05.58.24:935][784]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.08.28-05.58.28:234][ 22]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-05.58.28:239][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-05.58.28:239][ 22]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 9:58:28 PM)
+[2022.08.28-05.58.28:268][ 22]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-05.58.28:272][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004419s)
+[2022.08.28-05.58.28:272][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.004493s)
+[2022.08.28-05.58.28:272][ 22]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-05.58.28:272][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-05.58.28:273][ 22]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-05.58.28:273][ 22]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2022.08.28-05.58.28:303][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.08.28-05.58.28:304][ 22]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.08.28-05.58.28:304][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-05.58.28:304][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-05.58.28:304][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-05.58.28:304][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-05.58.28:304][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-05.58.28:304][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-05.58.28:304][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-05.58.28:304][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-05.58.28:305][ 22]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-05.58.28:305][ 22]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-05.58.28:305][ 22]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-05.58.28:306][ 22]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-05.58.28:322][ 22]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-05.58.28:322][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-05.58.28:323][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-05.58.28:323][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-05.58.28:323][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.08.28-05.58.28:323][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.08.28-05.58.28:324][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.08.28-05.58.28:324][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.08.28-05.58.28:324][ 22]LogInit: FAudioDevice initialized.
+[2022.08.28-05.58.28:324][ 22]LogAudio: Display: Audio Device (ID: 6) registered with world 'SpaceScene2'.
+[2022.08.28-05.58.28:331][ 22]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-05.58.28:332][ 22]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-05.58.28:333][ 22]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-01.58.28
+[2022.08.28-05.58.28:333][ 22]LogWorld: Bringing up level for play took: 0.001248
+[2022.08.28-05.58.28:334][ 22]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.08.28-05.58.28:336][ 22]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-05.58.28:336][ 22]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-05.58.28:435][ 22]PIE: Server logged in
+[2022.08.28-05.58.28:436][ 22]PIE: Play in editor total start time 0.197 seconds.
+[2022.08.28-05.58.35:769][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-05.58.35:769][759]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-05.58.35:769][759]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-05.58.35:772][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-05.58.35:785][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-05.58.35:791][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-05.58.35:824][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-05.58.35:824][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.28-05.58.35:826][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.28-05.58.35:838][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.28-05.58.35:858][760]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.08.28-05.58.53:267][810]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-05.58.53:272][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-05.58.53:273][810]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 9:58:53 PM)
+[2022.08.28-05.58.53:273][810]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-05.58.53:278][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005165s)
+[2022.08.28-05.58.53:278][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.005239s)
+[2022.08.28-05.58.53:278][810]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-05.58.53:278][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-05.58.53:278][810]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-05.58.53:278][810]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2022.08.28-05.58.53:309][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.08.28-05.58.53:310][810]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.08.28-05.58.53:310][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-05.58.53:310][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-05.58.53:310][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-05.58.53:310][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-05.58.53:310][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-05.58.53:310][810]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-05.58.53:310][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-05.58.53:310][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-05.58.53:311][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-05.58.53:311][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-05.58.53:311][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-05.58.53:312][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-05.58.53:329][810]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-05.58.53:329][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-05.58.53:329][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-05.58.53:329][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-05.58.53:329][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.08.28-05.58.53:329][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.08.28-05.58.53:331][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.08.28-05.58.53:331][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.08.28-05.58.53:331][810]LogInit: FAudioDevice initialized.
+[2022.08.28-05.58.53:331][810]LogAudio: Display: Audio Device (ID: 7) registered with world 'SpaceScene2'.
+[2022.08.28-05.58.53:338][810]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-05.58.53:339][810]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-05.58.53:340][810]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-01.58.53
+[2022.08.28-05.58.53:340][810]LogWorld: Bringing up level for play took: 0.001289
+[2022.08.28-05.58.53:341][810]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.08.28-05.58.53:343][810]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-05.58.53:343][810]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-05.58.53:442][810]PIE: Server logged in
+[2022.08.28-05.58.53:443][810]PIE: Play in editor total start time 0.171 seconds.
+[2022.08.28-05.59.06:329][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-05.59.06:329][120]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-05.59.06:329][120]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-05.59.06:332][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-05.59.06:345][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-05.59.06:350][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-05.59.06:383][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-05.59.06:383][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.28-05.59.06:384][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.28-05.59.06:397][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.08.28-05.59.06:422][121]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.08.28-05.59.16:331][260]Cmd: DELETE
+[2022.08.28-05.59.16:331][260]Cmd: ACTOR DELETE
+[2022.08.28-05.59.16:334][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:334][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:334][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:334][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:334][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:335][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:335][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:335][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:336][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:336][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:336][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:337][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:337][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:337][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:338][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:338][260]LogEditorActor: Deleted Actor: SpawnLocation_C
+[2022.08.28-05.59.16:368][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.08.28-05.59.16:371][260]LogEditorActor: Deleted 16 Actors (0.040 secs)
+[2022.08.28-05.59.25:627][329]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-05.59.25:627][329]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-05.59.25:627][329]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_0
+[2022.08.28-05.59.25:628][329]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_0
+[2022.08.28-05.59.26:094][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-05.59.26:094][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-05.59.26:095][384]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_17
+[2022.08.28-05.59.26:096][384]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_17
+[2022.08.28-06.00.08:591][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.00.08:622][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.08.28-06.00.08:632][407]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.00.08:632][407]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2FAE1A4FF4E749357D89E098E05729876.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.00.08:650][407]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.00.08:650][407]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.00.19:774][703]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-06.00.19:780][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-06.00.19:780][703]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 10:00:19 PM)
+[2022.08.28-06.00.19:781][703]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.00.19:784][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003491s)
+[2022.08.28-06.00.19:784][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.003562s)
+[2022.08.28-06.00.19:784][703]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-06.00.19:784][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.00.19:784][703]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-06.00.19:784][703]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2022.08.28-06.00.19:814][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.08.28-06.00.19:816][703]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.08.28-06.00.19:816][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-06.00.19:816][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-06.00.19:816][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-06.00.19:816][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-06.00.19:816][703]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-06.00.19:816][703]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-06.00.19:816][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-06.00.19:816][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-06.00.19:817][703]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-06.00.19:817][703]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-06.00.19:817][703]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-06.00.19:818][703]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-06.00.19:835][703]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-06.00.19:835][703]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-06.00.19:835][703]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-06.00.19:835][703]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-06.00.19:835][703]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.08.28-06.00.19:835][703]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.08.28-06.00.19:837][703]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.08.28-06.00.19:837][703]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.08.28-06.00.19:837][703]LogInit: FAudioDevice initialized.
+[2022.08.28-06.00.19:837][703]LogAudio: Display: Audio Device (ID: 8) registered with world 'SpaceScene2'.
+[2022.08.28-06.00.19:845][703]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-06.00.19:845][703]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-06.00.19:846][703]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-02.00.19
+[2022.08.28-06.00.19:846][703]LogWorld: Bringing up level for play took: 0.001252
+[2022.08.28-06.00.19:847][703]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.08.28-06.00.19:849][703]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.00.19:849][703]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.00.19:950][703]PIE: Server logged in
+[2022.08.28-06.00.19:950][703]PIE: Play in editor total start time 0.17 seconds.
+[2022.08.28-06.01.08:899][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.01.08:899][787]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.01.08:899][787]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-06.01.08:901][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.01.08:915][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-06.01.08:921][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.01.08:953][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.01.08:954][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.08.28-06.01.08:955][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.08.28-06.01.08:969][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.08.28-06.01.08:995][788]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.08.28-06.01.10:021][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.01.10:053][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.08.28-06.01.10:063][903]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.01.10:063][903]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene22418AEE34A6C7B9F0F6817AC8E37E3D2.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.01.10:081][903]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.01.10:081][903]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.02.48:813][490]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.48:813][490]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.48:814][490]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_18
+[2022.08.28-06.02.48:814][490]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_18
+[2022.08.28-06.02.49:360][553]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.49:360][553]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.49:361][553]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_19
+[2022.08.28-06.02.49:362][553]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_19
+[2022.08.28-06.02.52:710][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.52:710][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.52:711][917]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_20
+[2022.08.28-06.02.52:711][917]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_20
+[2022.08.28-06.02.52:945][943]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.52:945][943]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.52:946][943]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_21
+[2022.08.28-06.02.52:947][943]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_21
+[2022.08.28-06.02.56:939][395]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.56:939][395]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.56:939][395]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_22
+[2022.08.28-06.02.56:940][395]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_22
+[2022.08.28-06.02.57:152][418]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.57:152][418]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.57:153][418]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_23
+[2022.08.28-06.02.57:154][418]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_23
+[2022.08.28-06.02.59:645][678]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.59:645][678]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.59:646][678]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_24
+[2022.08.28-06.02.59:646][678]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_24
+[2022.08.28-06.02.59:938][709]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.59:938][709]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.02.59:939][709]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_25
+[2022.08.28-06.02.59:940][709]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_25
+[2022.08.28-06.03.03:487][106]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.03:487][106]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.03:488][106]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_26
+[2022.08.28-06.03.03:489][106]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_26
+[2022.08.28-06.03.03:670][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.03:671][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.03:672][126]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_27
+[2022.08.28-06.03.03:672][126]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_27
+[2022.08.28-06.03.10:759][934]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.10:759][934]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.10:760][934]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_28
+[2022.08.28-06.03.10:761][934]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_28
+[2022.08.28-06.03.10:858][944]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.10:858][944]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.10:859][944]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_29
+[2022.08.28-06.03.10:860][944]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_29
+[2022.08.28-06.03.13:847][275]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.13:847][275]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.13:848][275]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_30
+[2022.08.28-06.03.13:848][275]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_30
+[2022.08.28-06.03.14:014][293]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.14:014][293]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.14:015][293]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_31
+[2022.08.28-06.03.14:016][293]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_31
+[2022.08.28-06.03.17:351][666]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.17:351][666]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.17:352][666]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_32
+[2022.08.28-06.03.17:352][666]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_32
+[2022.08.28-06.03.17:585][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.17:586][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.17:587][692]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_33
+[2022.08.28-06.03.17:587][692]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_33
+[2022.08.28-06.03.23:409][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.23:410][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.23:410][353]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_34
+[2022.08.28-06.03.23:411][353]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_34
+[2022.08.28-06.03.23:582][372]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.23:583][372]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.23:584][372]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_35
+[2022.08.28-06.03.23:584][372]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_35
+[2022.08.28-06.03.25:908][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.25:908][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.25:908][626]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_36
+[2022.08.28-06.03.25:909][626]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_36
+[2022.08.28-06.03.26:227][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.26:227][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.26:228][662]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_37
+[2022.08.28-06.03.26:229][662]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_37
+[2022.08.28-06.03.39:403][213]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.39:403][213]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.39:404][213]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_38
+[2022.08.28-06.03.39:405][213]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_38
+[2022.08.28-06.03.39:905][269]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.39:905][269]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.39:906][269]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_39
+[2022.08.28-06.03.39:906][269]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_39
+[2022.08.28-06.03.42:822][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.42:822][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.42:822][579]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_40
+[2022.08.28-06.03.42:823][579]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_40
+[2022.08.28-06.03.43:052][604]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.43:052][604]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.43:053][604]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_41
+[2022.08.28-06.03.43:054][604]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_41
+[2022.08.28-06.03.45:089][815]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.45:089][815]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.45:090][815]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_42
+[2022.08.28-06.03.45:091][815]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_42
+[2022.08.28-06.03.45:297][837]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.45:297][837]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.45:298][837]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_43
+[2022.08.28-06.03.45:299][837]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_43
+[2022.08.28-06.03.48:413][178]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.48:413][178]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.48:414][178]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_44
+[2022.08.28-06.03.48:414][178]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_44
+[2022.08.28-06.03.48:599][198]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.48:599][198]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.03.48:600][198]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_45
+[2022.08.28-06.03.48:601][198]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_45
+[2022.08.28-06.04.06:557][324]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.06:557][324]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.06:558][324]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_46
+[2022.08.28-06.04.06:559][324]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_46
+[2022.08.28-06.04.06:782][348]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.06:782][348]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.06:783][348]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_47
+[2022.08.28-06.04.06:783][348]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_47
+[2022.08.28-06.04.08:793][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.08:793][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.08:794][566]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_48
+[2022.08.28-06.04.08:795][566]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_48
+[2022.08.28-06.04.08:973][585]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.08:973][585]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.08:974][585]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_49
+[2022.08.28-06.04.08:974][585]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_49
+[2022.08.28-06.04.11:499][853]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.11:499][853]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.11:500][853]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_50
+[2022.08.28-06.04.11:500][853]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_50
+[2022.08.28-06.04.11:735][879]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.11:735][879]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.11:736][879]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_51
+[2022.08.28-06.04.11:736][879]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_51
+[2022.08.28-06.04.17:137][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.17:137][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.17:137][499]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_52
+[2022.08.28-06.04.17:138][499]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_52
+[2022.08.28-06.04.17:492][539]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.17:492][539]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.17:493][539]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_53
+[2022.08.28-06.04.17:493][539]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_53
+[2022.08.28-06.04.19:619][769]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.19:619][769]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.19:620][769]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_54
+[2022.08.28-06.04.19:620][769]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_54
+[2022.08.28-06.04.19:805][788]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.19:805][788]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.19:806][788]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_55
+[2022.08.28-06.04.19:806][788]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_55
+[2022.08.28-06.04.27:326][651]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.27:326][651]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.27:327][651]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_56
+[2022.08.28-06.04.27:327][651]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_56
+[2022.08.28-06.04.27:548][675]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.27:548][675]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.27:549][675]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_57
+[2022.08.28-06.04.27:549][675]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_57
+[2022.08.28-06.04.30:322][975]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.30:322][975]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.30:323][975]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_58
+[2022.08.28-06.04.30:323][975]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_58
+[2022.08.28-06.04.30:516][995]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.30:516][995]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.30:517][995]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_59
+[2022.08.28-06.04.30:517][995]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_59
+[2022.08.28-06.04.32:853][248]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.32:853][248]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.32:854][248]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_60
+[2022.08.28-06.04.32:855][248]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_60
+[2022.08.28-06.04.33:062][271]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.33:062][271]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.33:063][271]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_61
+[2022.08.28-06.04.33:064][271]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_61
+[2022.08.28-06.04.38:983][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.38:983][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.38:984][951]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_62
+[2022.08.28-06.04.38:984][951]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_62
+[2022.08.28-06.04.39:226][977]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.39:226][977]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.39:227][977]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_63
+[2022.08.28-06.04.39:228][977]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_63
+[2022.08.28-06.04.41:791][248]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.41:791][248]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.41:792][248]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_64
+[2022.08.28-06.04.41:792][248]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_64
+[2022.08.28-06.04.42:057][278]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.42:057][278]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.42:058][278]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_65
+[2022.08.28-06.04.42:058][278]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_65
+[2022.08.28-06.04.44:406][529]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.44:406][529]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.44:406][529]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_66
+[2022.08.28-06.04.44:407][529]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_66
+[2022.08.28-06.04.44:599][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.44:599][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/SpawnLocation.SpawnLocation_C
+[2022.08.28-06.04.44:600][550]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_67
+[2022.08.28-06.04.44:600][550]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/SpawnLocation.SpawnLocation as actor: SpawnLocation_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.SpawnLocation_C_67
+[2022.08.28-06.04.50:935][213]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.04.50:935][213]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.04.50:936][213]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_3
+[2022.08.28-06.04.50:936][213]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_3
+[2022.08.28-06.04.51:542][277]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.04.51:542][277]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.04.51:543][277]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_4
+[2022.08.28-06.04.51:543][277]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_4
+[2022.08.28-06.04.52:930][438]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.28-06.05.00:934][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.05.00:971][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.08.28-06.05.00:990][327]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.05.00:991][327]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene25D94187945769C339CAC2B86E296279C.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.05.01:009][327]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.05.01:009][327]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.05.01:494][381]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-06.05.01:499][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-06.05.01:499][381]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 10:05:01 PM)
+[2022.08.28-06.05.01:529][381]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.05.01:534][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005333s)
+[2022.08.28-06.05.01:534][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.005460s)
+[2022.08.28-06.05.01:534][381]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-06.05.01:534][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.05.01:535][381]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-06.05.01:535][381]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2022.08.28-06.05.01:566][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.08.28-06.05.01:567][381]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.08.28-06.05.01:567][381]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-06.05.01:567][381]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-06.05.01:567][381]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-06.05.01:567][381]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-06.05.01:567][381]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-06.05.01:567][381]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-06.05.01:567][381]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-06.05.01:567][381]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-06.05.01:567][381]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-06.05.01:567][381]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-06.05.01:567][381]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-06.05.01:569][381]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-06.05.01:586][381]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-06.05.01:586][381]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-06.05.01:586][381]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-06.05.01:586][381]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-06.05.01:586][381]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.08.28-06.05.01:587][381]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.08.28-06.05.01:588][381]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.08.28-06.05.01:588][381]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.08.28-06.05.01:588][381]LogInit: FAudioDevice initialized.
+[2022.08.28-06.05.01:588][381]LogAudio: Display: Audio Device (ID: 9) registered with world 'SpaceScene2'.
+[2022.08.28-06.05.01:599][381]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-06.05.01:600][381]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-06.05.01:601][381]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-02.05.01
+[2022.08.28-06.05.01:601][381]LogWorld: Bringing up level for play took: 0.001368
+[2022.08.28-06.05.01:602][381]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.08.28-06.05.01:604][381]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.05.01:604][381]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.05.01:727][381]PIE: Server logged in
+[2022.08.28-06.05.01:727][381]PIE: Play in editor total start time 0.228 seconds.
+[2022.08.28-06.05.26:908][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.05.26:908][605]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.05.26:909][605]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-06.05.26:911][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.05.26:918][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-06.05.26:924][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.05.26:958][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.05.26:958][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.08.28-06.05.26:959][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.08.28-06.05.26:973][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.28-06.05.26:999][606]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.08.28-06.05.30:803][ 10]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.05.30:803][ 10]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.05.30:803][ 10]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_5
+[2022.08.28-06.05.30:804][ 10]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_5
+[2022.08.28-06.05.31:593][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.05.31:593][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.05.31:594][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_6
+[2022.08.28-06.05.31:595][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_6
+[2022.08.28-06.05.39:832][ 27]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-06.05.39:838][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-06.05.39:838][ 27]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 10:05:39 PM)
+[2022.08.28-06.05.39:859][ 27]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.05.39:864][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005295s)
+[2022.08.28-06.05.39:864][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.005401s)
+[2022.08.28-06.05.39:864][ 27]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-06.05.39:864][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.05.39:864][ 27]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-06.05.39:865][ 27]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2022.08.28-06.05.39:895][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.08.28-06.05.39:899][ 27]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.08.28-06.05.39:899][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-06.05.39:899][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-06.05.39:899][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-06.05.39:899][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-06.05.39:899][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-06.05.39:899][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-06.05.39:899][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-06.05.39:899][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-06.05.39:899][ 27]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-06.05.39:899][ 27]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-06.05.39:899][ 27]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-06.05.39:901][ 27]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-06.05.39:917][ 27]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-06.05.39:917][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-06.05.39:917][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-06.05.39:917][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-06.05.39:918][ 27]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.08.28-06.05.39:918][ 27]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.08.28-06.05.39:919][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.08.28-06.05.39:919][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.08.28-06.05.39:919][ 27]LogInit: FAudioDevice initialized.
+[2022.08.28-06.05.39:919][ 27]LogAudio: Display: Audio Device (ID: 10) registered with world 'SpaceScene2'.
+[2022.08.28-06.05.39:926][ 27]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-06.05.39:927][ 27]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-06.05.39:927][ 27]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-02.05.39
+[2022.08.28-06.05.39:927][ 27]LogWorld: Bringing up level for play took: 0.001320
+[2022.08.28-06.05.39:928][ 27]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.08.28-06.05.39:930][ 27]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.05.39:930][ 27]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.05.40:076][ 27]PIE: Server logged in
+[2022.08.28-06.05.40:076][ 27]PIE: Play in editor total start time 0.239 seconds.
+[2022.08.28-06.05.44:899][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.05.44:899][373]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.05.44:899][373]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-06.05.44:902][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.05.44:914][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-06.05.44:920][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.05.44:954][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.28-06.05.44:954][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.08.28-06.05.44:956][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.08.28-06.05.44:959][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.05.44:971][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.08.28-06.05.44:997][374]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.08.28-06.05.46:003][488]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.28-06.05.48:892][792]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.05.48:892][792]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.05.48:893][792]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_7
+[2022.08.28-06.05.48:893][792]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_7
+[2022.08.28-06.05.49:388][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.05.49:388][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.05.49:389][843]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_8
+[2022.08.28-06.05.49:389][843]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_8
+[2022.08.28-06.05.53:549][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.05.53:580][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.08.28-06.05.53:596][289]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.05.53:597][289]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene292572361464E4E58DE807AA702AEAE3A.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.05.53:615][289]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.05.53:615][289]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.05.54:096][343]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-06.05.54:102][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-06.05.54:102][343]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 10:05:54 PM)
+[2022.08.28-06.05.54:138][343]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.05.54:143][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005408s)
+[2022.08.28-06.05.54:143][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.005512s)
+[2022.08.28-06.05.54:143][343]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-06.05.54:143][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.05.54:144][343]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-06.05.54:144][343]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2022.08.28-06.05.54:173][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.08.28-06.05.54:174][343]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.08.28-06.05.54:174][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-06.05.54:174][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-06.05.54:174][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-06.05.54:174][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-06.05.54:174][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-06.05.54:174][343]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-06.05.54:174][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-06.05.54:174][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-06.05.54:175][343]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-06.05.54:175][343]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-06.05.54:175][343]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-06.05.54:176][343]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-06.05.54:192][343]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-06.05.54:193][343]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-06.05.54:193][343]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-06.05.54:193][343]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-06.05.54:193][343]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.08.28-06.05.54:193][343]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.08.28-06.05.54:195][343]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.08.28-06.05.54:195][343]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.08.28-06.05.54:195][343]LogInit: FAudioDevice initialized.
+[2022.08.28-06.05.54:195][343]LogAudio: Display: Audio Device (ID: 11) registered with world 'SpaceScene2'.
+[2022.08.28-06.05.54:207][343]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-06.05.54:207][343]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-06.05.54:208][343]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-02.05.54
+[2022.08.28-06.05.54:208][343]LogWorld: Bringing up level for play took: 0.001331
+[2022.08.28-06.05.54:209][343]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.08.28-06.05.54:211][343]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.05.54:211][343]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.05.54:380][343]PIE: Server logged in
+[2022.08.28-06.05.54:380][343]PIE: Play in editor total start time 0.279 seconds.
+[2022.08.28-06.06.07:868][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.06.07:868][232]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.06.07:869][232]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-06.06.07:874][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.06.07:887][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-06.06.07:893][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.06.07:928][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.06.07:928][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.08.28-06.06.07:930][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.08.28-06.06.07:947][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.08.28-06.06.07:973][233]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.08.28-06.06.10:223][467]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.06.10:223][467]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.06.10:224][467]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_9
+[2022.08.28-06.06.10:224][467]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_9
+[2022.08.28-06.06.10:711][517]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.06.10:711][517]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.06.10:712][517]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_10
+[2022.08.28-06.06.10:713][517]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_10
+[2022.08.28-06.06.19:285][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.06.19:315][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.08.28-06.06.19:332][484]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.06.19:332][484]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2D0561CF14B297ACB24496ABE02545AE6.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.06.19:350][484]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.06.19:350][484]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.06.21:700][739]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/AsteroidBelt.AsteroidBelt
+[2022.08.28-06.06.21:701][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.06.25:690][155]BlueprintLog: New page: Compile AsteroidBelt
+[2022.08.28-06.06.25:758][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.08.28-06.06.26:238][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AsteroidBelt" FILE="F:/GameJamAugust2022/GameJamProject/Content/BP/AsteroidBelt.uasset" SILENT=true
+[2022.08.28-06.06.26:251][203]LogSavePackage: Moving output files for package: /Game/BP/AsteroidBelt
+[2022.08.28-06.06.26:251][203]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/AsteroidBelt59F175C6449A8C97147819B7BB6D45B0.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/BP/AsteroidBelt.uasset'
+[2022.08.28-06.06.26:262][203]AssetCheck: New page: Asset Save: AsteroidBelt
+[2022.08.28-06.06.26:262][203]LogContentValidation: Display: Validating Blueprint /Game/BP/AsteroidBelt.AsteroidBelt
+[2022.08.28-06.06.27:946][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.06.27:983][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.08.28-06.06.27:997][380]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.06.27:997][380]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2CA4045CA4EA9E54A848868A4076CA2A3.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.06.28:015][380]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.06.28:016][380]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.06.34:319][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.06.34:355][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.08.28-06.06.34:369][122]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.06.34:369][122]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2F44B5F974C0F84CCEB21998677D0BC3A.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.06.34:387][122]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.06.34:387][122]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.06.35:531][249]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-06.06.35:537][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-06.06.35:537][249]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 10:06:35 PM)
+[2022.08.28-06.06.35:559][249]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.06.35:564][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005467s)
+[2022.08.28-06.06.35:564][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.005563s)
+[2022.08.28-06.06.35:564][249]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-06.06.35:564][249]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.06.35:565][249]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-06.06.35:565][249]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2022.08.28-06.06.35:601][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.08.28-06.06.35:602][249]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.08.28-06.06.35:602][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-06.06.35:602][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-06.06.35:602][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-06.06.35:602][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-06.06.35:602][249]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-06.06.35:602][249]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-06.06.35:602][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-06.06.35:602][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-06.06.35:602][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-06.06.35:602][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-06.06.35:602][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-06.06.35:604][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-06.06.35:620][249]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-06.06.35:620][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-06.06.35:620][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-06.06.35:620][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-06.06.35:621][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.08.28-06.06.35:621][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.08.28-06.06.35:622][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.08.28-06.06.35:622][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.08.28-06.06.35:622][249]LogInit: FAudioDevice initialized.
+[2022.08.28-06.06.35:622][249]LogAudio: Display: Audio Device (ID: 12) registered with world 'SpaceScene2'.
+[2022.08.28-06.06.35:631][249]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-06.06.35:632][249]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-06.06.35:632][249]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-02.06.35
+[2022.08.28-06.06.35:632][249]LogWorld: Bringing up level for play took: 0.001293
+[2022.08.28-06.06.35:634][249]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.08.28-06.06.35:635][249]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.06.35:635][249]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.06.35:813][249]PIE: Server logged in
+[2022.08.28-06.06.35:814][249]PIE: Play in editor total start time 0.278 seconds.
+[2022.08.28-06.06.39:568][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.06.39:568][492]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.06.39:569][492]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-06.06.39:573][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.06.39:588][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-06.06.39:594][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.06.39:630][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.06.39:631][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.08.28-06.06.39:632][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.08.28-06.06.39:656][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.08.28-06.06.39:683][493]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.08.28-06.06.42:507][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.06.42:507][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.06.42:508][781]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_11
+[2022.08.28-06.06.42:508][781]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_11
+[2022.08.28-06.06.43:050][835]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.06.43:050][835]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/AsteroidBelt.AsteroidBelt_C
+[2022.08.28-06.06.43:051][835]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_12
+[2022.08.28-06.06.43:052][835]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/AsteroidBelt.AsteroidBelt as actor: AsteroidBelt_C /Game/Scenes/SpaceScene2.SpaceScene2:PersistentLevel.AsteroidBelt_C_12
+[2022.08.28-06.06.52:501][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.06.52:538][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.08.28-06.06.52:553][870]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.06.52:553][870]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2470053A74FA5D4BD5C89588B939D4232.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.06.52:571][870]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.06.52:571][870]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.07.24:998][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.07.25:036][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.08.28-06.07.25:051][551]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.07.25:052][551]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene2F628C552466C932C0F7F04B38013E5D2.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.07.25:070][551]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.07.25:070][551]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.07.25:729][627]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-06.07.25:735][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-06.07.25:735][627]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 10:07:25 PM)
+[2022.08.28-06.07.25:758][627]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.07.25:764][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005862s)
+[2022.08.28-06.07.25:764][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.005981s)
+[2022.08.28-06.07.25:764][627]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-06.07.25:764][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.07.25:764][627]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-06.07.25:764][627]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2022.08.28-06.07.25:802][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.08.28-06.07.25:802][627]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.08.28-06.07.25:802][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-06.07.25:802][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-06.07.25:802][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-06.07.25:802][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-06.07.25:802][627]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-06.07.25:802][627]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-06.07.25:803][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-06.07.25:803][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-06.07.25:803][627]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-06.07.25:803][627]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-06.07.25:803][627]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-06.07.25:804][627]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-06.07.25:820][627]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-06.07.25:821][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-06.07.25:821][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-06.07.25:821][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-06.07.25:821][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.08.28-06.07.25:821][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.08.28-06.07.25:823][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.08.28-06.07.25:823][627]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.08.28-06.07.25:823][627]LogInit: FAudioDevice initialized.
+[2022.08.28-06.07.25:823][627]LogAudio: Display: Audio Device (ID: 13) registered with world 'SpaceScene2'.
+[2022.08.28-06.07.25:834][627]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-06.07.25:834][627]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-06.07.25:835][627]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-02.07.25
+[2022.08.28-06.07.25:835][627]LogWorld: Bringing up level for play took: 0.001300
+[2022.08.28-06.07.25:836][627]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.08.28-06.07.25:838][627]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.07.25:838][627]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.07.25:952][627]PIE: Server logged in
+[2022.08.28-06.07.25:953][627]PIE: Play in editor total start time 0.218 seconds.
+[2022.08.28-06.07.50:678][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.07.50:678][949]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.07.50:678][949]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-06.07.50:681][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.07.50:694][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-06.07.50:700][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.07.50:735][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.28-06.07.50:740][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.08.28-06.07.50:741][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.08.28-06.07.50:745][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.07.50:756][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.08.28-06.07.50:778][950]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.08.28-06.07.51:919][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SpaceScene2" FILE="F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-06.07.51:956][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.08.28-06.07.51:971][ 79]LogSavePackage: Moving output files for package: /Game/Scenes/SpaceScene2
+[2022.08.28-06.07.51:971][ 79]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/SpaceScene273CC4F174D88585E3DFB128A2135AF34.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Scenes/SpaceScene2.umap'
+[2022.08.28-06.07.51:989][ 79]AssetCheck: New page: Asset Save: SpaceScene2
+[2022.08.28-06.07.51:989][ 79]LogContentValidation: Display: Validating World /Game/Scenes/SpaceScene2.SpaceScene2
+[2022.08.28-06.08.38:062][390]BlueprintLog: New page: Compile PlayerCharacter
+[2022.08.28-06.08.38:214][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.08.28-06.08.38:756][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCharacter" FILE="F:/GameJamAugust2022/GameJamProject/Content/Player/PlayerCharacter.uasset" SILENT=true
+[2022.08.28-06.08.38:849][424]LogSavePackage: Moving output files for package: /Game/Player/PlayerCharacter
+[2022.08.28-06.08.38:849][424]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/PlayerCharacterC25C14C345310837AC7A459F13EE1997.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Player/PlayerCharacter.uasset'
+[2022.08.28-06.08.38:862][424]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.08.28-06.08.38:862][424]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerCharacter.PlayerCharacter
+[2022.08.28-06.08.39:481][498]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-06.08.39:487][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-06.08.39:487][498]PIE: New page: PIE session: SpaceScene2 (Aug 27, 2022, 10:08:39 PM)
+[2022.08.28-06.08.39:487][498]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.08.39:492][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005485s)
+[2022.08.28-06.08.39:492][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SpaceScene2.SpaceScene2 to /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 (0.005548s)
+[2022.08.28-06.08.39:492][498]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-06.08.39:493][498]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-06.08.39:493][498]LogAIModule: Creating AISystem for world SpaceScene2
+[2022.08.28-06.08.39:493][498]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2022.08.28-06.08.39:531][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.08.28-06.08.39:532][498]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.08.28-06.08.39:532][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-06.08.39:532][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-06.08.39:532][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-06.08.39:532][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-06.08.39:532][498]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-06.08.39:532][498]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-06.08.39:532][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-06.08.39:532][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-06.08.39:532][498]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-06.08.39:532][498]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-06.08.39:532][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-06.08.39:534][498]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-06.08.39:550][498]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Sound BlasterX G5)
+[2022.08.28-06.08.39:550][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-06.08.39:550][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-06.08.39:550][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-06.08.39:551][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.08.28-06.08.39:551][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.08.28-06.08.39:552][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.08.28-06.08.39:552][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.08.28-06.08.39:553][498]LogInit: FAudioDevice initialized.
+[2022.08.28-06.08.39:553][498]LogAudio: Display: Audio Device (ID: 14) registered with world 'SpaceScene2'.
+[2022.08.28-06.08.39:576][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.08.39:576][498]LogLoad: Game class is 'SpaceGameMode_C'
+[2022.08.28-06.08.39:577][498]LogChildActorComponent: Error: Found cycle in child actor component '/Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2:PersistentLevel.Space_Skybox_bp_C_1.Space_Skybox'.  Not spawning Actor of class 'Space_Skybox_bp_C' to break.
+[2022.08.28-06.08.39:577][498]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SpaceScene2.SpaceScene2 up for play (max tick rate 0) at 2022.08.28-02.08.39
+[2022.08.28-06.08.39:578][498]LogWorld: Bringing up level for play took: 0.001377
+[2022.08.28-06.08.39:579][498]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.08.28-06.08.39:581][498]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.08.39:581][498]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.28-06.08.39:708][498]PIE: Server logged in
+[2022.08.28-06.08.39:717][498]PIE: Play in editor total start time 0.23 seconds.
+[2022.08.28-06.08.39:738][498]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.08.28-06.09.09:208][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-06.09.09:208][567]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_SpaceScene2
+[2022.08.28-06.09.09:209][567]LogSlate: Window 'GameJamProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.08.28-06.09.09:214][567]LogWorld: UWorld::CleanupWorld for SpaceScene2, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-06.09.09:217][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.09.09:232][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-06.09.09:239][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-06.09.09:279][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.28-06.09.09:280][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.08.28-06.09.09:281][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.08.28-06.09.09:295][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.08.28-06.09.09:315][568]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.08.28-06.09.10:515][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCharacter" FILE="F:/GameJamAugust2022/GameJamProject/Content/Player/PlayerCharacter.uasset" SILENT=true
+[2022.08.28-06.09.10:608][707]LogSavePackage: Moving output files for package: /Game/Player/PlayerCharacter
+[2022.08.28-06.09.10:608][707]LogSavePackage: Moving 'F:/GameJamAugust2022/GameJamProject/Saved/PlayerCharacter32FC258A42B6BD0C8D1D8DAED817A130.tmp' to 'F:/GameJamAugust2022/GameJamProject/Content/Player/PlayerCharacter.uasset'
+[2022.08.28-06.09.10:620][707]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.08.28-06.09.10:620][707]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerCharacter.PlayerCharacter
